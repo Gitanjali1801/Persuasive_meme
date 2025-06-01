@@ -78,7 +78,6 @@ This dataset is developed for understanding **persuasiveness**, **persuasive pol
 
 ## 💻 Associated Code
 - File: `persuasion_model.ipynb`  
-- Description: Implements training and evaluation routines for sarcasm and humor classification tasks.
 
 ---
 
