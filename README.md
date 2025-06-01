@@ -1,8 +1,4 @@
 # The Persuasive Memescape: Understanding Effectiveness and Societal Implications of Internet Memes
-# Code: persuasion_model.ipynb !!!!!
-# Kindly reach us at AI-NLP-ML Lab, IIT Patna, India  or 
-# Gitanjali Kumari, E-mail: gitanjali_2021cs03@iitp.ac.in
-# Persuasive_Meme Dataset (Sample Release)
 
 This dataset is developed for understanding **persuasiveness**, **persuasive polarity**, and **linguistic rhetorical devices** in internet memes. It supports three tasks across different levels of semantic and rhetorical analysis.
 
